@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Artify – Online Art Sharing Platform",
+    "image": "https://i.ibb.co/bqKL3LS/artify.png",
+    "type":"Full Stack",
+    "description": "Artify is an interactive platform where artists can upload and showcase artworks. Users can explore galleries, save favorites, and connect through appreciation. Focuses on creativity, smooth UI, and global sharing.",
+    "live_url": "https://fir-1d10b.web.app/",
+    "client_repo": "https://github.com/nafi0123/Artify_Client.git",
+    "server_repo": "https://github.com/nafi0123/Artify_Server.git",
+    "tags": ["Art", "Gallery", "User Uploads", "Community Platform"]
+  },
+  {
+    "id": 2,
+    "title": "SkillSwap – A Local Skill Exchange Platform",
+    "image": "https://i.ibb.co/ynfFsfMS/skillswap.png",
+    "type":"Fronted",
+    "description": "SkillSwap connects people locally to exchange and learn skills such as music, languages, coding, fitness, and more. Users can offer services or learn from others in a skill marketplace.",
+    "live_url": "https://skill-exchange-platform-b6b75.web.app",
+    "client_repo": "https://github.com/nafi0123/SkillSwap.git",
+    "server_repo": null,
+    "tags": ["Skill Exchange", "Local Community", "Learning", "Marketplace"]
+  }
+]
