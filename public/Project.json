@@ -3,22 +3,64 @@
     "id": 1,
     "title": "Artify – Online Art Sharing Platform",
     "image": "https://i.ibb.co/bqKL3LS/artify.png",
-    "type":"Full Stack",
+    "type": "Full Stack",
     "description": "Artify is an interactive platform where artists can upload and showcase artworks. Users can explore galleries, save favorites, and connect through appreciation. Focuses on creativity, smooth UI, and global sharing.",
-    "live_url": "https://fir-1d10b.web.app/",
+    "live_url": "https://artify-smoky-nu.vercel.app/",
     "client_repo": "https://github.com/nafi0123/Artify_Client.git",
     "server_repo": "https://github.com/nafi0123/Artify_Server.git",
-    "tags": ["Art", "Gallery", "User Uploads", "Community Platform"]
+    "tags": [
+      "Art",
+      "Gallery",
+      "User Uploads",
+      "Community Platform"
+    ]
   },
   {
     "id": 2,
     "title": "SkillSwap – A Local Skill Exchange Platform",
     "image": "https://i.ibb.co/ynfFsfMS/skillswap.png",
-    "type":"Fronted",
+    "type": "Frontend",
     "description": "SkillSwap connects people locally to exchange and learn skills such as music, languages, coding, fitness, and more. Users can offer services or learn from others in a skill marketplace.",
     "live_url": "https://skill-exchange-platform-b6b75.web.app",
     "client_repo": "https://github.com/nafi0123/SkillSwap.git",
     "server_repo": null,
-    "tags": ["Skill Exchange", "Local Community", "Learning", "Marketplace"]
+    "tags": [
+      "Skill Exchange",
+      "Local Community",
+      "Learning",
+      "Marketplace"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "TicketBari – Online Ticket Booking Platform",
+    "image": "https://i.ibb.co/7xhvTGLR/Screenshot-2025-12-16-005540.png",
+    "type": "Full Stack",
+    "description": "TicketBari is a complete online travel ticket booking platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js). Users can discover, book, and manage tickets for Bus, Train, Launch, and Plane journeys across Bangladesh. The platform features three distinct user roles: User, Vendor, and Admin.",
+    "live_url": "https://ticketbari-2025.web.app/",
+    "client_repo": "https://github.com/nafi0123/Online_Ticket_Booking_Platform_Client.git",
+    "server_repo": "https://github.com/nafi0123/Online_Ticket_Booking_Platform_server.git",
+    "tags": [
+      "Ticket Booking",
+      "Travel",
+      "MERN Stack",
+      "Role-based Dashboards"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Zap Shift Delivery – Parcel Delivery Platform",
+    "image": "https://i.ibb.co.com/KjYk3Qm6/Screenshot-2025-12-16-010156.png",
+    "type": "Full Stack",
+    "description": "Zap Shift Delivery is a fast, secure, and scalable MERN (MongoDB, Express, React, Node.js) parcel delivery platform built for three roles: Users, Riders, and Admins. The platform supports JWT authentication, role-based access control, and optional real-time tracking.",
+    "live_url": "https://module51-7b9b9.web.app/",
+    "client_repo": "https://github.com/nafi0123/Zap-Shift-delivery-Client.git",
+    "server_repo": "https://github.com/nafi0123/Zap-Shift-delivery-server.git",
+    "tags": [
+      "Parcel Delivery",
+      "MERN Stack",
+      "Real-Time Tracking",
+      "Role-Based Access"
+    ]
   }
 ]
